@@ -20,7 +20,9 @@
   "dependencies": {
     "eureca.io": "^0.6.42",
     "express": "^4.14.0",
-    "phaser": "^2.6.1"
+    "phaser": "^2.6.1",
+    "engine.io": "^1.6.11"
+      
   },
   "engines": {
     "node": "4.4.7"  
